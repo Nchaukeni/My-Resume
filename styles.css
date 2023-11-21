@@ -1,0 +1,62 @@
+.header_1{
+    width:100%;
+    height: 40px;
+    background-color: darkgray;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+.Summary {
+    display: flex;
+}
+.fa-solid {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.intro {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.title_block {
+    margin-right: 60px;
+}
+.Footer {
+    width: 100%;
+    background-color: darkgrey;
+    margin: 0px;
+    text-align: center;
+    padding: 80px
+
+}
+.fa-brands{
+    margin-right: 10px;
+}
+.list_item{
+    margin-bottom: 10px;
+}
+.contacts{
+    margin-top: 20px;
+}
+.project_icon {
+    margin-right: 15px;
+}
+.title_Block {
+    margin-right: 119px;
+}
+.bar_shortcuts {
+    display:flex;
+    justify-content: right;
+}
+.name{
+    margin-top: 150px;
+}
+.Line{
+    height: 3px;
+}
+.bar_button {
+    margin-right: 28px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
